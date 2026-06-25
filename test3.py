@@ -1,1 +1,2 @@
-print("Great")
+print("Hello world")
+print("This is new")
